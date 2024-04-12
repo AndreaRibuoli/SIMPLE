@@ -1,0 +1,3 @@
+QCLSRC    GREETINGS CLLE      Help me understand PASERIE tools
+QCLSRC    BUILD     CLLE      BUILD CLLE auto-generated
+QMAKSRC   BUILD     TXT       BUILD Makefile auto-generated
