@@ -1,3 +1,4 @@
 QCLSRC    GREETINGS CLLE      Help me understand PASERIE tools
 QCLSRC    BUILD     CLLE      BUILD CLLE auto-generated
+QCLSRC    MISSING   TXT       Should be missing
 QMAKSRC   BUILD     TXT       BUILD Makefile auto-generated
